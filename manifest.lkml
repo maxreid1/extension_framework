@@ -8,5 +8,5 @@ project_name: "extension_framework_enablement"
 # }
 
 application: extension {
-  url: "localhost:8080/bundle.js"
+  file: "localhost:8080/bundle.js"
 }
