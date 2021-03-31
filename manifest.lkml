@@ -11,6 +11,7 @@ application: extension {
   label: "EF Lab"
   url: "http://localhost:8080/bundle.js"
   entitlements: {
+    use_embeds: yes
     local_storage: yes
     navigation: yes
     new_window: yes
