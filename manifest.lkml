@@ -24,7 +24,7 @@ application: extension {
       "create_sql_query",
       "run_sql_query",
       "query",
-      "lookml_model_explore", "all_lookml_models", "lookml_model"]
+      "lookml_model_explore", "all_lookml_models", "lookml_model", "all_folders"]
     external_api_urls:["https://*.googleapis.com",
       "https://maps.googleapis.com"]}
 }
